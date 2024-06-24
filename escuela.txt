@@ -1,0 +1,52 @@
+drop database if exists escuela;
+create database escuela;
+use escuela
+ 
+create table formulario_ingreso(
+documento int not null primary key,
+tipo_documento varchar(30) not null,
+nombre varchar(30) not null,
+apellido varchar(30) not null,
+direccion varchar(30) not null,
+telefono varchar(30) not null,
+fecha_nacimiento varchar(20) not null,
+observaciones varchar(100) not null,
+estado varchar(50) not null
+)engine=innodb;
+
+create table inicio_sesion(
+Usuario varchar(40),
+contrasena varchar(30),
+primary key (contrasena)) ENGINE=InnoDB;
+
+create table mensualidades(
+identificacion int not null primary key,
+nombre varchar(40) not null,
+mes varchar(10) not null,
+valorpagar int not null
+)ENGINE=Innodb;
+
+create table inventarios(
+IDprod int primary key not null,
+nombreprod varchar(30) not null,
+cantidadprod varchar(20) not null,
+costouni varchar(30) not null,
+costototal int not null
+)ENGINE=Innodb;
+
+create table nomina(
+cedulaempl int not null primary key,
+nombreempl varchar(40) not null,
+periodopag varchar(20) not null,
+deduciones varchar(20) not null,
+totalPag varchar(25) not null
+)ENGINE=Innodb;
+
+insert into inicio_sesion values("henry","111");
+insert into inicio_sesion values("alejo","123");
+
+insert into mensualidades values ("1225154","carlos arturo","08","123000");
+insert into mensualidades values ("1365244","felipe contreras","12","125000");
+
+insert into inventarios values ("1524","balon","2","65000","130000");
+insert into inventarios values ("1554","mangas","3","25000","75000");

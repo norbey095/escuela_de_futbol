@@ -1,0 +1,266 @@
+D:\alejandro s\poo avanzada\trabajo_final\bin\Debug\trabajo_final.exe.config
+D:\alejandro s\poo avanzada\trabajo_final\bin\Debug\trabajo_final.exe
+D:\alejandro s\poo avanzada\trabajo_final\bin\Debug\trabajo_final.pdb
+D:\alejandro s\poo avanzada\trabajo_final\obj\Debug\trabajo_final.csproj.AssemblyReference.cache
+D:\alejandro s\poo avanzada\trabajo_final\obj\Debug\trabajo_final.csproj.SuggestedBindingRedirects.cache
+D:\alejandro s\poo avanzada\trabajo_final\obj\Debug\trabajo_final.Form1.resources
+D:\alejandro s\poo avanzada\trabajo_final\obj\Debug\trabajo_final.Properties.Resources.resources
+D:\alejandro s\poo avanzada\trabajo_final\obj\Debug\trabajo_final.csproj.GenerateResource.cache
+D:\alejandro s\poo avanzada\trabajo_final\obj\Debug\trabajo_final.csproj.CoreCompileInputs.cache
+D:\alejandro s\poo avanzada\trabajo_final\obj\Debug\trabajo_final.exe
+D:\alejandro s\poo avanzada\trabajo_final\obj\Debug\trabajo_final.pdb
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.AssemblyReference.cache
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.exe
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.pdb
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\bin\Debug\trabajo_final.exe.config
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\bin\Debug\trabajo_final.exe
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\bin\Debug\trabajo_final.pdb
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.Form1.resources
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.Loguin.resources
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.Mision.resources
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.Properties.Resources.resources
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.Valor_flor.resources
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.Ventas.resources
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.Vision.resources
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.GenerateResource.cache
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.CoreCompileInputs.cache
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.AssemblyReference.cache
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.SuggestedBindingRedirects.cache
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.exe
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.pdb
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\bin\Debug\trabajo_final.exe.config
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\bin\Debug\trabajo_final.exe
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\bin\Debug\trabajo_final.pdb
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.Form1.resources
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.Login.resources
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.Mision.resources
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.Properties.Resources.resources
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.Valor_flor.resources
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.Ventas.resources
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.Vision.resources
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.GenerateResource.cache
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.CoreCompileInputs.cache
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\bin\Debug\MySql.Data.dll
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.CopyComplete
+D:\alejandro s\trabajo_final\bin\Debug\trabajo_final.exe.config
+D:\alejandro s\trabajo_final\bin\Debug\trabajo_final.exe
+D:\alejandro s\trabajo_final\bin\Debug\trabajo_final.pdb
+D:\alejandro s\trabajo_final\bin\Debug\MySql.Data.dll
+D:\alejandro s\trabajo_final\bin\Debug\Google.Protobuf.dll
+D:\alejandro s\trabajo_final\bin\Debug\ZstdNet.dll
+D:\alejandro s\trabajo_final\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\alejandro s\trabajo_final\bin\Debug\BouncyCastle.Crypto.dll
+D:\alejandro s\trabajo_final\bin\Debug\Ubiety.Dns.Core.dll
+D:\alejandro s\trabajo_final\bin\Debug\System.Memory.dll
+D:\alejandro s\trabajo_final\bin\Debug\System.Buffers.dll
+D:\alejandro s\trabajo_final\bin\Debug\K4os.Compression.LZ4.dll
+D:\alejandro s\trabajo_final\bin\Debug\K4os.Hash.xxHash.dll
+D:\alejandro s\trabajo_final\bin\Debug\MySql.Data.xml
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.csproj.AssemblyReference.cache
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.csproj.SuggestedBindingRedirects.cache
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.exe.config
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.Form1.resources
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.Login.resources
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.Mision.resources
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.Properties.Resources.resources
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.Valor_flor.resources
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.Ventas.resources
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.Vision.resources
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.csproj.GenerateResource.cache
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.csproj.CoreCompileInputs.cache
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.csproj.CopyComplete
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.exe
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.pdb
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.AssemblyReference.cache
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.SuggestedBindingRedirects.cache
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.exe.config
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Form1.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Login.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Mision.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Valor_flor.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Ventas.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Vision.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.GenerateResource.cache
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.exe
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.pdb
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\trabajo_final.exe.config
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\trabajo_final.exe
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\trabajo_final.pdb
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\Google.Protobuf.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\ZstdNet.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\System.Memory.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\System.Buffers.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\MySql.Data.xml
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Properties.Resources.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.CoreCompileInputs.cache
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.CopyComplete
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\trabajo_final.exe.config
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\trabajo_final.exe
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\trabajo_final.pdb
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\MySql.Data.dll
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\Google.Protobuf.dll
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\ZstdNet.dll
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\BouncyCastle.Crypto.dll
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\Ubiety.Dns.Core.dll
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\System.Memory.dll
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\System.Buffers.dll
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\K4os.Compression.LZ4.dll
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\K4os.Hash.xxHash.dll
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\System.Numerics.Vectors.dll
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\MySql.Data.xml
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.AssemblyReference.cache
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.SuggestedBindingRedirects.cache
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.exe.config
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Form1.resources
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Login.resources
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Mision.resources
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Properties.Resources.resources
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Valor_flor.resources
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Ventas.resources
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Vision.resources
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.GenerateResource.cache
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.CoreCompileInputs.cache
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.CopyComplete
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.exe
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.pdb
+F:\norbey alejandro\analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Formulario_de_ingreso.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.AssemblyReference.cache
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.SuggestedBindingRedirects.cache
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.exe.config
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Formulario_de_ingreso.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Login.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Mision.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Properties.Resources.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Vision.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.GenerateResource.cache
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.CoreCompileInputs.cache
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.exe
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.pdb
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\trabajo_final.exe.config
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\trabajo_final.exe
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\trabajo_final.pdb
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\Google.Protobuf.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\ZstdNet.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\System.Memory.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\System.Buffers.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\MySql.Data.xml
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.CopyComplete
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.menu_loguin.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Registros.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Inicio.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Inventario.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Nomina.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Mensualidades.resources
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.AssemblyReference.cache
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.exe.config
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.exe
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.pdb
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\trabajo_final.exe.config
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\trabajo_final.exe
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\trabajo_final.pdb
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\MySql.Data.dll
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\Google.Protobuf.dll
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\ZstdNet.dll
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\System.Memory.dll
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\System.Buffers.dll
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\MySql.Data.xml
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Inicio.resources
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Formulario_de_ingreso.resources
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Inventario.resources
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Login.resources
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.menu_loguin.resources
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Mision.resources
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Nomina.resources
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Properties.Resources.resources
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Mensualidades.resources
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Registros.resources
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Vision.resources
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.GenerateResource.cache
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.CoreCompileInputs.cache
+C:\Users\Sala 101\Downloads\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.CopyComplete
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.csproj.AssemblyReference.cache
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.csproj.SuggestedBindingRedirects.cache
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.exe.config
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.Inicio.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.Formulario_de_ingreso.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.Inventario.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.Login.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.menu_loguin.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.Mision.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.Nomina.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.Properties.Resources.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.Mensualidades.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.Registros.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.Vision.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.csproj.GenerateResource.cache
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.csproj.CoreCompileInputs.cache
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.exe
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.pdb
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\bin\Debug\trabajo_final.exe.config
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\bin\Debug\trabajo_final.exe
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\bin\Debug\trabajo_final.pdb
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\bin\Debug\Google.Protobuf.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\bin\Debug\ZstdNet.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\bin\Debug\System.Memory.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\bin\Debug\System.Buffers.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\bin\Debug\MySql.Data.xml
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\Analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.csproj.CopyComplete
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\bin\Debug\trabajo_final.exe.config
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\bin\Debug\trabajo_final.exe
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\bin\Debug\trabajo_final.pdb
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\bin\Debug\Google.Protobuf.dll
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\bin\Debug\ZstdNet.dll
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\bin\Debug\BouncyCastle.Crypto.dll
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\bin\Debug\Ubiety.Dns.Core.dll
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\bin\Debug\System.Memory.dll
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\bin\Debug\System.Buffers.dll
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\bin\Debug\K4os.Compression.LZ4.dll
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\bin\Debug\K4os.Hash.xxHash.dll
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\bin\Debug\System.Numerics.Vectors.dll
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\bin\Debug\MySql.Data.xml
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.csproj.AssemblyReference.cache
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.csproj.SuggestedBindingRedirects.cache
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.exe.config
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.Inicio.resources
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.Formulario_de_ingreso.resources
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.Inventario.resources
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.Login.resources
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.menu_loguin.resources
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.Mision.resources
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.Nomina.resources
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.Properties.Resources.resources
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.Mensualidades.resources
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.Registros.resources
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.Vision.resources
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.csproj.GenerateResource.cache
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.csproj.CoreCompileInputs.cache
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.exe
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_final.pdb
+F:\norbey alejandro\analisis y diseño\trabajo_final\trabajo_final\obj\Debug\trabajo_.F58C85A4.Up2Date
